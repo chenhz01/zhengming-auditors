@@ -1,0 +1,4158 @@
+{
+ "n_files": 578,
+ "n_readable": 578,
+ "n_with_sites": 16,
+ "peak_zone_hits": 0,
+ "zone_peaks": {
+  "math": 0,
+  "chinese": 0,
+  "irreversible": 0,
+  "coarse_unit": 0
+ },
+ "tally": {
+  "math": 0,
+  "chinese": 0,
+  "irreversible": 0,
+  "coarse_unit": 0
+ },
+ "results": [
+  {
+   "rel": "abhixhek__jevcal__examples__sms_spam__prepare.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__scripts__make_example.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__check.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__compile.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__label.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__lint.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__measure.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__metrics.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__optimize.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__providers__llm.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__providers__sim.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__providers__typesafe.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 46,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__providers____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__report.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__runtime.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal__spec.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__src__jevcal____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__tests__test_metrics.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__tests__test_pipeline.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "abhixhek__jevcal__tests__test_spec_and_providers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__examples__quickstart.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp__client.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 140,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp__models.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp__questions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp__server.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__jev_mcp____main__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__scripts__register.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__conftest.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_client.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_packaging.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_registration.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_tools.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "blakestone-x__jev-mcp__tests__test_vocabulary.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__scripts__build-plugin.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__scripts__bump.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__scripts__capture-fixture.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__scripts__smoke.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__scripts__spike-http-hook.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__daemon-watchdog.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__budget.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__models.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__policy.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__pricing.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__types.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__decision__validate.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__files__errors.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__files__glob.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__files__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__advisory.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__claims.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__cli.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__commit-core.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__conventions.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__auth.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__control.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__main.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__protocol.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__registry.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__server.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__daemon__state-file.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__dispatch.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__commit.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__lint.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__post-tool-use.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__pre-tool-use.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__session-end.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__session-start.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__stop.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__handlers__user-prompt-submit.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__lint-core.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__lint-prefilter.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__main.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__memo.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__prefilter.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__redact.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__report.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__store.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__tripwire.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__types.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__verification.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__version.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__wording.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__hooks__workspace.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__jev__client.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 143,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__jev__errors.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__lib.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__server.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__candidates.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__evaluate.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__gate-action-core.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__gate-action.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__list-models.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__next-step.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__pick.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__rank.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__shared.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__verify-core.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__tools__verify.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__util__concurrency.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__src__util__sensitive-path.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__acceptance__day1-policy.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__acceptance__replay.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__budget.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__client.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__config.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__files__access.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__helpers__fake-model.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__advisory.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__bundle.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__cases.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__claims.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__commit.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__config.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__conformance.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__conventions.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__daemon-control.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__daemon-e2e.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__daemon-helpers.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__daemon.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__e2e.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__helpers.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__hooks-json.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__lint-core.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__lint-prefilter.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__lint.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__main.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__memo.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__never-allow.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__post-tool-use.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__pre-tool-use.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__prefilter.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__redact.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__report.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__session.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__stop-claims.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__stop.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__store.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__tripwire.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__user-prompt-submit.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__verification.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__watchdog.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__wording.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__hooks__workspace.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__policy.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__server.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__evaluate.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__gate-action.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__list-models.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__next-step.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__pick.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__rank-files.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__rank.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__verify-core.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__verify-files.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__tools__verify.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__validate.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__tests__versions.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Brainwires__jevwire__vitest.config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__src__client.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__src__config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__src__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__src__question-file.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__tests__client.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__tests__config.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__tests__extension.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "legacybridge-tech__pi-typesafe-jev__tests__question-file.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__examples__basic__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__examples__github__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__examples__payments__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__examples__support__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__choice.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__decision.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__noul.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__result.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__score.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__decision__threshold.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__provider__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__provider__mock.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__provider__types.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__record__events.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__record__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__record__record.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__workflow__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__workflow__outcome.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__src__workflow__workflow.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__tests__builders.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__tests__mock.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__tests__result.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__tests__threshold.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__tests__workflow.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__core__vitest.config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__provider-jev__src__index.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 72,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__provider-jev__tests__index.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "Mawfyy__jevflow__packages__provider-jev__vitest.config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__docs__evals__charts.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__arms.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__installments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__refunds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__routing.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__tests__test_installments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__tests__test_refunds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__snapshot__tests__test_routing.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j1-refund-window__acceptance_test.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j1-refund-window__distractors__delivery-date-exclusive__refunds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j1-refund-window__distractors__order-date-exclusive__refunds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j1-refund-window__reference__refunds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j2-ticket-route__acceptance_test.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j2-ticket-route__distractors__billing__routing.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j2-ticket-route__reference__routing.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j3-installment-patch__acceptance_test.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j3-installment-patch__distractors__patch-a__installments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j3-installment-patch__distractors__patch-b__installments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__fixture__tasks__j3-installment-patch__reference__installments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__grade.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__ledger.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__outcomes.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__proxy.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__report.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__review_server.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__run.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__stream.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__tasks.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab__unsafe.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__ab____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__agent.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__baselines__ranking.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__baselines____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__analysis.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__answer.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__chart.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__gate.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__items.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__ledger.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__pi.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__prompt.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__proxy.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__run.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__spans.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench__stats.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__bench____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__calibration__flips.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__calibration__order.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__calibration__rows.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__calibration__split.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__calibration____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__external__jevbench.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__external____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__relay.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__runners__live.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__runners__manifest.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__runners__score.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__runners____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__scorers__fields.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__scorers__metrics.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__scorers__tools.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__scorers____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__spend.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals__study_runner.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__evals____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__examples__risk_proportional_thresholds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__check_release_version.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__ci_old_python_entry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__ci__hook_chain.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__ci__install_hooks.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__ci__linux_check.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__scripts__ci__pre_push_check.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__cache.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibrate.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibration__bounds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibration__families.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibration__targets.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibration__threshold.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__calibration____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__doctor.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__domain__answers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__domain__json.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__domain__questions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__domain__usage.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__domain____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__errors.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__extract__candidates.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__extract__dialect.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__extract__executor.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__extract__worker.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__extract____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__fsutil.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__hook.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__hook_render.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__http_auth.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__identity.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__ids.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__documents.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__engine.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__errors.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__fs.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__jsonedit.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__launch.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__layout.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__redact.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__values.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install__verify.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__install____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__instructions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__keyfile.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__limits.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__actions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__claims.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__extract.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__ranking.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__review.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__screen.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy__thresholds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__policy____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__base.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__cloudflare.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__compatible.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__openrouter.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__resolver.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__retry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers__typesafe.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 140,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__providers____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__redact_action.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__responses.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__serialize.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__server.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__settings.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__setup.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__telemetry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__text.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__arguments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__base.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__classify.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__common.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__compare.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__decide.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__extract.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__files.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__find.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__gate.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__observed.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__rerank.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__review.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__score.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__screen.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__toolset.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools__verify.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__tools____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__caps.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__choice.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__extract.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__noul.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__numbers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation__score.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp__validation____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp____init__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__src__jev_judge_mcp____main__.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_compare_warnings.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_divergence_registry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_docs_alignment.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_extract.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_fail_closed.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_limits.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_paid_gates.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_providers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_provider_retries.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_regex_executor.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_renamed_ids.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_score_tool.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_tools_list.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__contract__test_worker_census.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__booking_cases.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_ab_dryrun.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_ab_harness.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_agent.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_bench.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_bench_dryrun.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_bench_pi.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_calibration.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_jevbench.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_live_order.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_live_typesafe.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_metrics.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_order_probe.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_real_output.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_relay.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_runners.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_scorer_contract.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_spend.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_study_runner.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__evals__test_tool_scorers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__integration__test_http.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__integration__test_http_auth.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__integration__test_stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__integration__test_tools_stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__integration__test_uvx_smoke.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__load__test_overhead.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__boundary.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__extract.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__judgments.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__malformed.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__normal.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__provider.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__text.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases__truncated.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__cases___helpers.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__divergences.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__js_oracle.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__lib.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__mock-hooks.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__record.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__reference.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__regex_oracle.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__harness__replay.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__program_expect.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_extract_differential.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_policy_fixtures.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_policy_replay.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_provider_fixtures.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_serialize_differential.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_serialize_fixtures.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__parity__test_tool_fixtures.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__property__test_argument_schema_properties.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__property__test_policy_properties.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__property__test_text_ids_serialize_properties.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__property__test_validation_properties.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_gates.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_injection.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_inputs.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_live_typesafe.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_redos.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__test_wire.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__security__tools.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__bench_agent.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__bench_provider.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__fake_mcp_server.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__fixtures.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__jev.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__node.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__peer.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__replay.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__retries.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__secrets.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__tools_list.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__support__workers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_arguments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_cache.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_calibrate.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_ci_prepush_coverage.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_cli_gate.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_cli_judge.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_dependencies.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_doctor.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_domain.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_example_thresholds.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_extract_candidates.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_extract_dialect.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_fake_secret_lengths.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_file_diff.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_frame.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_fsutil.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_harness_docs.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_hook.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_http_auth.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_http_nonfinite_arguments.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_http_port.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_identity.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_ids.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_install.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_keyfile.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_platform.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_policy.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_providers.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_redact_action.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_release_version.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_resolver.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_retry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_runtime.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_schema_compile.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_serialize.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_settings.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_setup.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_skill.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_stdio.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_subcommand_logging.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_telemetry.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_text.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_toolset.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_tool_boundaries.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_validation_choice.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_validation_noul_score.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "PyModel__jev-judge-mcp__tests__unit__test_verify.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__collab.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__compact.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__completion.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__gate-session.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__hud.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__inset.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__pong.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__pr-triage.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__race.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__strip.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__task.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__examples__waiting.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__record.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__bench__run.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__examples__demo.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__harness__pi__jev-use.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__scripts__smoke.mjs",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__http.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__mock.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__native.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__openrouter.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__types.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__typesafe.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__unconfigured.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__backends__vercel.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__cli.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__dispatch.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__install.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__jev.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__judge.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__protocol.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__redact.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__src__server.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__backends.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__cli.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__dispatch.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__install.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__jev.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__judge.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__pi-extension.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__redact.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__serve-backend.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "shitianfang__jev-use__test__server.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__estimate_cost.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__evaluate.py",
+   "call_sites": 2,
+   "zones": {},
+   "sites": [
+    {
+     "line": 215,
+     "zones": []
+    },
+    {
+     "line": 240,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__evaluate_test.py",
+   "call_sites": 2,
+   "zones": {},
+   "sites": [
+    {
+     "line": 305,
+     "zones": []
+    },
+    {
+     "line": 308,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__lint_questions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__lint_questions_test.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__scripts__sync_resources.sh",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__templates__eval_thresholds.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 67,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__templates__guardrail.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 113,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__templates__questions.py",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__templates__questions.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__skills__tenbin__templates__triage.py",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 13,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__client.ts",
+   "call_sites": 2,
+   "zones": {},
+   "sites": [
+    {
+     "line": 103,
+     "zones": []
+    },
+    {
+     "line": 110,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__config.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__format.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__index.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__lint.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__lint.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__pool.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__pool.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__prompts.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__rank.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__resources.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__schemas.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__server.test.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 28,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__server.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tokens.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tools__evaluate.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 27,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tools__evaluate_many.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 86,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tools__misc.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tools__rank.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 158,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__tools__walk_taxonomy.ts",
+   "call_sites": 1,
+   "zones": {},
+   "sites": [
+    {
+     "line": 176,
+     "zones": []
+    }
+   ],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__types.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  },
+  {
+   "rel": "simota__tenbin__tenbin__src__walk_taxonomy.test.ts",
+   "call_sites": 0,
+   "zones": {},
+   "sites": [],
+   "error": null
+  }
+ ]
+}

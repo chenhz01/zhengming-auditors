@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+_raw/
+_clones/
+corpus/
+corpus_v1_empty_shells/
+skill_corpus/
+soul_corpus/
+.verify_backup/
+_out/*.json
+_tmp_*
+.DS_Store

@@ -1,0 +1,92 @@
+{
+  "sessions": [
+    {
+      "file": "rollout-2026-07-20T13-34-52-019f7e05-1d09-7653-ab41-871573579775.jsonl",
+      "n_lines": 448,
+      "n_bad": 0,
+      "score": {
+        "n_trunc": 1,
+        "n_cited": 0,
+        "cited_rate": 0.0,
+        "debt_tokens": 14158,
+        "n_warned": 1,
+        "n_unwarned": 0,
+        "decision_gap": 1,
+        "tail_debt_ratio": 0.9999,
+        "handle_mechanism": false,
+        "n_terminators": 15
+      },
+      "verdict": "informed_close"
+    },
+    {
+      "file": "rollout-2026-07-20T17-49-14-019f7eed-ff99-7793-b0a7-9c8ec41a6188.jsonl",
+      "n_lines": 322,
+      "n_bad": 0,
+      "score": {
+        "n_trunc": 1,
+        "n_cited": 0,
+        "cited_rate": 0.0,
+        "debt_tokens": 14158,
+        "n_warned": 1,
+        "n_unwarned": 0,
+        "decision_gap": 1,
+        "tail_debt_ratio": 0.9999,
+        "handle_mechanism": false,
+        "n_terminators": 16
+      },
+      "verdict": "informed_close"
+    },
+    {
+      "file": "rollout-2026-07-21T14-29-28-019f835d-7878-7ad3-b8e7-54c651d173d0.jsonl",
+      "n_lines": 11,
+      "n_bad": 0,
+      "score": {
+        "n_trunc": 0,
+        "n_cited": 0,
+        "cited_rate": null,
+        "debt_tokens": 0,
+        "n_warned": 0,
+        "n_unwarned": 0,
+        "decision_gap": null,
+        "tail_debt_ratio": 0.0,
+        "handle_mechanism": false,
+        "n_terminators": 1
+      },
+      "verdict": "no_truncation"
+    },
+    {
+      "file": "rollout-2026-07-23T21-18-23-019f8f20-9088-7ba1-b28c-83f2476093da.jsonl",
+      "n_lines": 36,
+      "n_bad": 0,
+      "score": {
+        "n_trunc": 0,
+        "n_cited": 0,
+        "cited_rate": null,
+        "debt_tokens": 0,
+        "n_warned": 0,
+        "n_unwarned": 0,
+        "decision_gap": null,
+        "tail_debt_ratio": 0.0,
+        "handle_mechanism": false,
+        "n_terminators": 3
+      },
+      "verdict": "no_truncation"
+    }
+  ],
+  "summary": {
+    "n_sessions": 4,
+    "n_with_debt": 2,
+    "coverage": "2/4",
+    "avg_cited_rate": 0.0,
+    "avg_tail_debt_ratio": 0.9999,
+    "total_trunc": 2,
+    "total_debt_tokens": 28316,
+    "verdicts": {
+      "ok": 0,
+      "caution": 0,
+      "debt_risk": 0,
+      "informed_close": 2,
+      "no_truncation": 2
+    }
+  }
+}

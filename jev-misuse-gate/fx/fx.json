@@ -1,0 +1,120 @@
+[
+ {
+  "rel": "f01_math.py",
+  "call_sites": 1,
+  "zones": {
+   "math": 1
+  },
+  "sites": [
+   {
+    "line": 5,
+    "zones": [
+     "math"
+    ]
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f02_clean.py",
+  "call_sites": 1,
+  "zones": {},
+  "sites": [
+   {
+    "line": 4,
+    "zones": []
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f03_chinese.py",
+  "call_sites": 1,
+  "zones": {
+   "chinese": 1
+  },
+  "sites": [
+   {
+    "line": 5,
+    "zones": [
+     "chinese"
+    ]
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f04_irreversible.py",
+  "call_sites": 1,
+  "zones": {
+   "irreversible": 1
+  },
+  "sites": [
+   {
+    "line": 6,
+    "zones": [
+     "irreversible"
+    ]
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f05_coarse.py",
+  "call_sites": 1,
+  "zones": {
+   "coarse_unit": 1
+  },
+  "sites": [
+   {
+    "line": 4,
+    "zones": [
+     "coarse_unit"
+    ]
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f06_multizone.py",
+  "call_sites": 1,
+  "zones": {
+   "math": 1,
+   "irreversible": 1
+  },
+  "sites": [
+   {
+    "line": 6,
+    "zones": [
+     "math",
+     "irreversible"
+    ]
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f07_context.py",
+  "call_sites": 1,
+  "zones": {},
+  "sites": [
+   {
+    "line": 22,
+    "zones": []
+   }
+  ],
+  "error": null
+ },
+ {
+  "rel": "f08_distant.py",
+  "call_sites": 1,
+  "zones": {},
+  "sites": [
+   {
+    "line": 21,
+    "zones": []
+   }
+  ],
+  "error": null
+ }
+]
