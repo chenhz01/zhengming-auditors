@@ -37,6 +37,17 @@ python flow-state-auditor/verify.py                 # its self-check
 
 Requirements: Python 3.10+. No third-party packages.
 
+## Related research
+
+Why build these? A companion note documents the gap behind them:
+
+**[The Output-Validation Gap in Agentic AI Standards](https://github.com/chenhz01/agent-output-validation-gap)** —
+current agentic-AI guidance requires output validation in principle
+(e.g. NIST AI 600-1 §2.2, ISO/IEC 42001:2023 A.6.2.4) but does not specify a
+reproducible verification procedure. The note proposes what a concrete,
+machine-checkable validation spec must contain: four necessary conditions and
+seven failure classes that rule-based self-checks demonstrably miss.
+
 ## License
 
 MIT
